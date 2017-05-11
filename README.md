@@ -1,5 +1,8 @@
 # TooManyMovies
-This repository holds a simple movie program that I made.
+This repository holds a simple movie program that I made, as
+well as an EasyReader class that I use quite often. If you 
+would like to try the program RIGHT NOW, then just download
+the .jar and the .txt and make sure they are in the same directory.
 
 This program uses a default list with a tight idea of how
 that list needs to look, so be cautious with the .txt file.
