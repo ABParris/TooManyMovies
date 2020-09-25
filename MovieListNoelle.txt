@@ -1,4 +1,3 @@
-[ ] Night Manager
 [ ] Little shop of horrors 
 [ ] The Bodyguard 
 [ ] Red Baron 
@@ -8,9 +7,7 @@
 [ ] Untouchables
 [ ] Indiana Jones - ALL
 [ ] Star Trek - 3 latest films
-[ ] Jack Ryan films - 3
 [ ] Last of the M ?
-[ ] Supernatural - bing
 [ ] Anthony Bourdain - Best Episodes
 [ ] Master and Commander
 [ ] Madam Secretary - bing
@@ -56,7 +53,6 @@
 [ ] The Living DayLights
 [ ] Licence to kill
 [ ] GoldenEye
-[ ] Tomorrow Never Dies
 [ ] The World Is Not Enough
 [ ] Die Another Day
 [ ] Casino Royale
@@ -68,3 +64,5 @@
 [ ] Thomas Crown Affair (90s) 
 [ ] Lawless 
 [ ] A View to Kill 
+[X] Supernatural - bing 
+[X] Tomorrow Never Dies 
